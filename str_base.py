@@ -31,25 +31,10 @@ usman = 'Malik'
 
 # __________________________________________Modify_string______________________
 
-# Upper(),                         it makes all characters of string in upper case
-a = 'MyWorld'
-# print(a.upper())
+                 #but the answer will contain no space between a and b
 
-#lower()
-
-
-#title
-
-#replace
-
-
-#split
-
-# ________________________________________________Join Strings_______________________
-
-
-
-
+# for given space betwwen a amnd b use : 
+#print(a+" "+b)
 
 
 #____________________________________________________String fromat_______________________
@@ -73,3 +58,11 @@ a = 'MyWorld'
 # Gender = 'Female'
 
 # print(f'{name},{Age},{Designation},{Gender}')
+
+
+Name = input('kindly Give your Good Name:')
+fathername = input('Your Father Name:')
+skills = input('Kindly Mention Your Skills :')
+Data = f'name: {Name}, FATHER NAME :{fathername},SKILLS:{skills}'
+print(Data)
+
