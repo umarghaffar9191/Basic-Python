@@ -18,6 +18,9 @@
 #     \\                               backslash
 #     \'                              single quote
 #   \"                                double quote
+
+
+#with examples
 print("welcome home")
 print("welcome \n home")
 print("welcome\t home")
