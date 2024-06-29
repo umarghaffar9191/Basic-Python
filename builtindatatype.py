@@ -5,7 +5,7 @@
 
 # jab koi b object koi b value contain nhi krta ha tu usy none datatype kehty hein
 
-#    NUMERIC DATA TYPE
+#___________________NUMERIC DATA TYPE________________________________
 
 # #following are the numeric datatype 
 #   int
