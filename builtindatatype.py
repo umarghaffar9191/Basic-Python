@@ -1,4 +1,6 @@
 #bismillah irrahman irraaheem
+
+#-------------------------BUILTIN_DATA_TYPES-------------------------------------
 #    none type
 
 # jab koi b object koi b value contain nhi krta ha tu usy none datatype kehty hein
